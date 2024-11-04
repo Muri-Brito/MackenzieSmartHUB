@@ -2,7 +2,9 @@
 
 > Status: Em desenvolvimento..⚠️
 
+![Arquitetura_SmartHUB](https://github.com/user-attachments/assets/4176b9b9-f08a-49a4-8e75-8f9b954a7938)
 Desenvolvimento de arquitetura de segurança robusta para redes I.o.T com AES+HMAC e TLS.
+
 
 | Tecnologias utilizadas |    Versão    |
 |------------------------|--------------|
